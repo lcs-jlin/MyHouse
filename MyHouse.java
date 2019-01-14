@@ -3,7 +3,7 @@
  * Creates an image of a house
  *
  * @author Justy Lin
- * @version Jan 11 2019
+ * @version Jan 14 2019
  */
 public class MyHouse
 {
